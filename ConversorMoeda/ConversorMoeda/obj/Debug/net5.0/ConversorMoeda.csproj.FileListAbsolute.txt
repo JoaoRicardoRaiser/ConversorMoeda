@@ -1,0 +1,16 @@
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.csprojAssemblyReference.cache
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.AssemblyInfo.cs
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.exe
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.deps.json
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.runtimeconfig.json
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.runtimeconfig.dev.json
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.dll
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ref\ConversorMoeda.dll
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\bin\Debug\net5.0\ConversorMoeda.pdb
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.dll
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ref\ConversorMoeda.dll
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.pdb
+C:\Users\joao.raiser\Desktop\Pessoal\Programacao\C#\ConversorMoeda\ConversorMoeda\ConversorMoeda\obj\Debug\net5.0\ConversorMoeda.genruntimeconfig.cache
